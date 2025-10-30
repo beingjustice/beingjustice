@@ -58,7 +58,7 @@ Always learning. 🤟🏻
 
 ## ✨ Other things
 
-- Favorite programming language: Rust. :crab:
+- Favorite programming language: Php. :crab:
 - Favorite technology: WebGPU.
 - Interests: breakdancing :man_dancing:, skateboarding :skateboard:.
 
