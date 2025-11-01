@@ -1,13 +1,32 @@
-# Hi, I'm being justice :wave:
+# being justice
+
+**Clean, minimalist portfolio website**
 
 Multidisciplinary builder, pixel-perfectionista. The Web is an amazing platform.
 Always learning. 🤟🏻 
 
-[![A photorealistic, cinematic, wide-angle computer rendering of a woman standing in a large indoor modern museum space staring at a giant LED screen displaying colorful smoke.](img/banner.webp)](https://zachnguyen.com)
+## ✨ Features
+
+- Clean, minimalist design
+- Responsive layout
+- Dark mode support
+- Modern typography with Inter font
+- Smooth hover interactions
+- Lightweight and fast
+
+## 🚀 Getting Started
+
+Simply open `index.html` in your browser to view the portfolio.
+
+## 📁 Structure
+
+```
+├── index.html      # Main HTML structure
+├── styles.css      # Minimalist styling
+└── README.md       # This file
+```
 
 ## 🌈 Skills
-
-<a href="https://zachnguyen.com/t" target="_blank"><img alt="A terminal window showing a rotating teapot animation drawn using ASCII characters." align="right" src="img/t.gif" /></a>
 
 ### Programming languages
 
