@@ -3,6 +3,10 @@
 > Multidisciplinary builder | Pixel-perfectionista  
 > *The Web is an amazing platform. Always learning.* 🤟
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Android+Developer;Always+Learning+Something+New" alt="Typing SVG" />
+</div>
+
 ---
 
 ## 💻 Tech Stack
@@ -48,6 +52,27 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beingjustice&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beingjustice&layout=compact&langs_count=8&theme=radical"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=beingjustice&theme=radical" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=beingjustice&theme=radical&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=beingjustice&color=blueviolet&style=flat-square" alt="Profile views" />
 </p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/beingjustice/beingjustice/main/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
